@@ -1,1 +1,1 @@
-Choosing a VaR technique
+Different Risk concepts and possible uses

@@ -9,5 +9,7 @@ focusing mainly on trading market risk.
 Spark Exercise
 
 • Historical Method: The historical method re-organices actual historical returns, putting them in order from worst to best.
+
 • The Variance-Covariance Method: This method assumes that stock returns are normally distributed and use pdf instead of actual returns.
+
 • Monte Carlo Simulation: 

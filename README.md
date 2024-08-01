@@ -5,3 +5,9 @@ Financial Risk Management concepts and possible uses
 
 Quantitative risk management emerged as a distinct discipline of financial economics in the 1990s,
 focusing mainly on trading market risk.
+
+Spark Exercise
+
+• Historical Method: The historical method re-organices actual historical returns, putting them in order from worst to best.
+• The Variance-Covariance Method: This method assumes that stock returns are normally distributed and use pdf instead of actual returns.
+• Monte Carlo Simulation: 

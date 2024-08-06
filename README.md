@@ -1,4 +1,4 @@
-Based on Valentin Haddad´s Financial Risk Management
+Based on Valentin Haddad´s Financial Risk Management Class
 
 Concepts and possible uses
 

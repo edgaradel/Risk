@@ -1,4 +1,6 @@
-Financial Risk Management concepts and possible uses
+Based on Valentin Haddad´s Financial Risk Management
+
+Concepts and possible uses
 
 1) Value-at-Risk
 2) Measuring VaR: Back-testing and Historical Simulations

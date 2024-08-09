@@ -1,9 +1,10 @@
 Based on Valentin Haddad´s Financial Risk Management Class
 
-Defining and managing risk is one of the most important issues firms face daily. This is especially important for financial institutions that rely on leverage.
+Defining and managing risk is one of the most important challenges that firms face daily. This is particularly crucial for financial institutions that rely on leverage.
 
-Find an answer to the question:
-“What is realistically the worst that could happen over one day, one week, or one year?”
+One important question to consider is: 'What is realistically the worst that could happen over one day, one week, or one year?'
+
+Value-at-Risk (VaR) provides an answer to this question by defining 'realistically' as an outcome so severe that anything worse is highly unlikely.
 
 Concepts and possible uses
 
@@ -15,7 +16,7 @@ focusing mainly on trading market risk.
 
 Spark Exercise
 
-• Historical Method: The historical method re-organices actual historical returns, putting them in order from worst to best.
+• Historical Method: The historical method re-organises actual historical returns, putting them in order from worst to best.
 
 • The Variance-Covariance Method: This method assumes that stock returns are normally distributed and use pdf instead of actual returns.
 

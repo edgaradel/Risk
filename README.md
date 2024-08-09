@@ -1,5 +1,7 @@
 Based on Valentin Haddad´s Financial Risk Management Class
 
+Defining and managing risk is one of the most important issues firms face daily. This is especially important for financial institutions that rely on leverage.
+
 Concepts and possible uses
 
 1) Value-at-Risk

@@ -4,7 +4,10 @@ Defining and managing risk is one of the most important challenges that firms fa
 
 One important question to consider is: 'What is realistically the worst that could happen over one day, one week, or one year?'
 
-Value-at-Risk (VaR) provides an answer to this question by defining 'realistically' as an outcome so severe that anything worse is highly unlikely.
+Value-at-Risk (VaR) answers this question by defining 'realistically' as an outcome so severe that anything worse is highly unlikely.
+
+Expected Shortfall
+Average of the [(1 - c) x n] worst realizations
 
 Concepts and possible uses
 
